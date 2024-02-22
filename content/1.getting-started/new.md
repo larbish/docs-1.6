@@ -1,1 +1,1 @@
-# New page updated
+# New page up
