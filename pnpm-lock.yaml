@@ -38,8 +38,8 @@ devDependencies:
     specifier: ^0.2.0
     version: 0.2.0(eslint@8.56.0)
   '@nuxthq/studio':
-    specifier: ^1.0.11
-    version: 1.0.11
+    specifier: ^1.0.12
+    version: 1.0.12
   eslint:
     specifier: ^8.56.0
     version: 8.56.0
@@ -1725,8 +1725,8 @@ packages:
       - vue-tsc
     dev: false
 
-  /@nuxthq/studio@1.0.11:
-    resolution: {integrity: sha512-MLrs/qvGqaSp+q3pezBTcRfkTHOJs9+MP0IIzSPwVCl4mncu4/1jyVLF7XjcjV4V91NFXJ/cjCNBQQWRsU7uLg==}
+  /@nuxthq/studio@1.0.12:
+    resolution: {integrity: sha512-3Ak5reS5B6onFg41dgB8a5vcZRXeoSIlReHDiWghz7gMjlpE0cGSAdu/xYcOZvHWgjOKVhPAQ6zNwUbUvBlU1w==}
     dependencies:
       '@nuxt/kit': 3.10.2
       defu: 6.1.4
@@ -2862,7 +2862,7 @@ packages:
   /@unocss/nuxt@0.58.5(postcss@8.4.35)(vite@5.1.1)(webpack@5.90.1):
     resolution: {integrity: sha512-x5iIGATNAhAGfN2w0f+ulRzmJTgu7PcJ8XAFmAx9QMKkVGnnurZEyW4IEm3Kr/EsRMhJXLtmZnsAGjC09qUh6A==}
     dependencies:
-      '@nuxt/kit': 3.10.1
+      '@nuxt/kit': 3.10.2
       '@unocss/config': 0.58.5
       '@unocss/core': 0.58.5
       '@unocss/preset-attributify': 0.58.5
